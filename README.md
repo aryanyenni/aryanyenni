@@ -1,4 +1,15 @@
-## Hi there 👋
+## About Me 👋
+Aerospace Engineering student Georgia Tech, focused/working in:
+- Propulsion 🚀
+- Vehicle Fluids 🐃
+- Thermal Systems ☕
+- Aerodynamics ✈️
+
+I love all things rocketry and space.
+
+## Projects
+- Data-Driven Aerodynamics
+  - Evaluating Machine Learning as a Surrogate for High-Fidelity CFD
 
 <!--
 **aryanyenni/aryanyenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
