@@ -8,8 +8,8 @@ Aerospace Engineering student Georgia Tech, focused/working in:
 I love all things rocketry and space.
 
 ## Projects
-- Data-Driven Aerodynamics
-  - Evaluating Machine Learning as a Surrogate for High-Fidelity CFD
+- [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
+  - Virtual Star-CCM+ wind tunnel use to train CFD ML algorithms.
 
 <!--
 **aryanyenni/aryanyenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
