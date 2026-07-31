@@ -7,9 +7,9 @@ Aerospace Engineering student Georgia Tech, focused/working in:
 
 I love all things rocketry and space.
 
-## Projects
+## Projects 🏗️
 - [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
-  - Virtual Star-CCM+ wind tunnel use to train CFD ML algorithms.
+  - Virtual Star-CCM+ wind tunnel used to train CFD ML algorithms.
 
 <!--
 **aryanyenni/aryanyenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
