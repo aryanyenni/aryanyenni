@@ -1,15 +1,13 @@
 ## About Me 👋
-Aerospace Engineering student Georgia Tech, focused/working in:
+Aerospace Engineering student Georgia Tech who loves all things rocketry and space, focused/working in:
 - Propulsion 🚀
 - Vehicle Fluids 🐃
 - Thermal Systems ☕
 - Aerodynamics ✈️
 
-I love all things rocketry and space.
-
 ## Projects 🏗️
 - [TCS: Fuel Inlet Line Thermals](https://github.com/aryanyenni/tcs-fuel-inlet-line-thermals)
-  - First deliverable iteration for the Thermal Control System, a Vehicle Fluids system.
+  - First deliverable iteration for the Thermal Control System, a Vehicle Fluids system for YJSP's Elytra Vehicle Program.
   - Includes 3 calculators for finding the Nusselt Number using power law correlations.
 - [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
   - Virtual Star-CCM+ wind tunnel used to train CFD ML algorithms.
