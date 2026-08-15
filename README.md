@@ -10,7 +10,7 @@ Aerospace Engineering student Georgia Tech who loves all things rocketry and spa
   - First deliverable iteration for the Thermal Control System, a vehicle fluids system for YJSP's Elytra Vehicle Program.
   - Includes 3 calculators for finding the Nusselt Number using known power law correlations.
 - [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
-  - Virtual Star-CCM+ wind tunnel used to train CFD ML algorithms.
+  - Virtual Star-CCM+ wind tunnel used to train GRU and U-Net ML architectures.
 
 <!--
 **aryanyenni/aryanyenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
