@@ -12,7 +12,7 @@ Aerospace Engineering student Georgia Tech who loves all things rocketry and spa
 - [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
   - Virtual Star-CCM+ wind tunnel used to train GRU and U-Net ML architectures.
 - [CFD on Fuel/KeroLOX Injector Manifolds](https://github.com/aryanyenni/kerolox-injector-cfd)
-  - An internal fluid flow CFD analysis on a fuel and KeroLOX injector for a KeroLOX rocket.
+  - An internal fluid flow CFD analysis on a fuel injector and KeroLOX swirl injector manifold for a KeroLOX rocket.
   - Presented Star-CCM+ results to highlight the usability of CFD in the engineering design process.
 
 <!--
