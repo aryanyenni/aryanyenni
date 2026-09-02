@@ -1,9 +1,8 @@
 ## About Me 👋
 Aerospace Engineering student Georgia Tech who loves all things rocketry and space, focused/working in:
-- Propulsion 🚀
-- Vehicle Fluids 🐃
-- Thermal Systems ☕
-- Aerodynamics ✈️
+- Propulsion 🚀 // Vehicle Fluids 🐃
+- Thermal Systems ☕ // Engines 🛱 // Igniters 🧨
+- Aerodynamics ✈️ // CFD ☿️ // Sims
 
 ## Projects 🏗️
 - [TCS: Fuel Inlet Line Thermals](https://github.com/aryanyenni/tcs-fuel-inlet-line-thermals)
