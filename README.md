@@ -5,7 +5,7 @@ Aerospace Engineering student Georgia Tech who loves all things rocketry and spa
 - Aerodynamics ✈️ // CFD ☿️ // Sims
 
 ## Projects 🏗️
-- [Thermal Control System: YJSP](https://github.com/aryanyenni/tcs-yjsp)
+- [YJSP: Thermal Control System](https://github.com/aryanyenni/tcs-yjsp)
   - Deliverable iterations for the Thermal Control System, a vehicle fluids system for YJSP's Elytra Vehicle Program.
 - [Data-Driven Aerodynamics](https://github.com/aryanyenni/data-driven-aerodynamics)
   - Virtual Star-CCM+ wind tunnel used to train GRU and U-Net ML architectures.
